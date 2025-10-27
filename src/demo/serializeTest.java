@@ -28,7 +28,7 @@ Location location1 = new Location();
 location1.setLat(-38.383494);
 location1.setLng(33.427362);
 jsonBody.setLocation(location1);
-jsonBody.setName("Frontline house");
+jsonBody.setName("Backstrasseleinn house");
 jsonBody.setPhone_number("(+91) 983 893 3937");
 jsonBody.setAddress("29, side layout, cohen 09");
 

@@ -52,7 +52,7 @@ public class oAuthTest {
 	}
 	
 	
-	//checking if list of webautomation courses titles is exact as expected
+	//checking if list of webautomation (POINTLESS TEXT TO CHANGE ANYTHING) courses titles is exact as expected
 	List<WebAutomation> webAutomationCourses = gc.getCourses().getWebAutomation();
 	
 	ArrayList<String> webAutoList = new ArrayList<String>();
