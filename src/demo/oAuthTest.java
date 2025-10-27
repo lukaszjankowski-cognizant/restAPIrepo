@@ -49,6 +49,19 @@ public class oAuthTest {
 	for (int i = 0; i<apiCourses.size(); i++) {
 				if (apiCourses.get(i).getCourseTitle().equalsIgnoreCase("SoapUI Webservices testing"));
 					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
+					System.out.println(apiCourses.get(i).getPrice());
 	}
 	
 	

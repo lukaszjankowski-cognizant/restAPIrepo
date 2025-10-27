@@ -30,6 +30,17 @@ public class oAuthShetty {
 			String code = partialCode.split("&scope")[0];
 			System.out.println(code);
 			System.out.println(code);
+			System.out.println(code);
+			System.out.println(code);
+			System.out.println(code);
+			System.out.println(code);
+			System.out.println(code);
+			System.out.println(code);
+			System.out.println(code);
+			System.out.println(code);
+			System.out.println(code);
+			System.out.println(code);
+			
 			
 			String tokenResponse = given()
 				.urlEncodingEnabled(false)
