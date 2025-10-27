@@ -53,15 +53,7 @@ public class oAuthTest {
 					System.out.println(apiCourses.get(i).getPrice());
 					System.out.println(apiCourses.get(i).getPrice());
 					System.out.println(apiCourses.get(i).getPrice());
-					System.out.println(apiCourses.get(i).getPrice());
-					System.out.println(apiCourses.get(i).getPrice());
-					System.out.println(apiCourses.get(i).getPrice());
-					System.out.println(apiCourses.get(i).getPrice());
-					System.out.println(apiCourses.get(i).getPrice());
-					System.out.println(apiCourses.get(i).getPrice());
-					System.out.println(apiCourses.get(i).getPrice());
-					System.out.println(apiCourses.get(i).getPrice());
-					System.out.println(apiCourses.get(i).getPrice());
+
 	}
 	
 	

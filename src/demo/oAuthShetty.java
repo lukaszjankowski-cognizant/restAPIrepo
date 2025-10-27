@@ -33,13 +33,7 @@ public class oAuthShetty {
 			System.out.println(code);
 			System.out.println(code);
 			System.out.println(code);
-			System.out.println(code);
-			System.out.println(code);
-			System.out.println(code);
-			System.out.println(code);
-			System.out.println(code);
-			System.out.println(code);
-			System.out.println(code);
+			
 			
 			
 			String tokenResponse = given()
